@@ -1,0 +1,7 @@
+.DS_Store
+.8ball
+*.swp
+*.db
+*.pyc
+
+8ball/
